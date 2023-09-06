@@ -3,10 +3,11 @@
 <hr>
 
 <h3 align="center">Current projects:</h3>
-<p align="center">🔭 I’m currently working on **Darkanian.eu**<a href="discord.gg/aTDBEdgtHM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/aTDBEdgtHM" height="30" width="40" /></a>
+<p align="center">🔭 I’m currently working on **Darkanian.eu**<a href="discord.gg/aTDBEdgtHM"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 <h3 align="center">Find me on:</h3>
-<p align="center"><a href="discordapp.com/users/adr3ez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/adr3ez" height="30" width="40" /></a> Discord <b>adr3ez</b>
-<p align="center"> ✉️ Mail address <b>adr3ez@gmail.com</b></p>
+<p align="center"><b>(adr3ez)</b><br> <a href="discordapp.com/users/adr3ez"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
+  
+<p align="center"><b>(adr3ez@gmail.com)</b><br> <a href="mailto://adr3ez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 <hr>
 
