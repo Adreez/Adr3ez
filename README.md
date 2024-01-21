@@ -3,7 +3,7 @@
 <hr>
 
 <h2 align="center">Current projects:</h2>
-<p align="center">🔭 I’m currently working on <b>Darkanian.eu</b><a href="https://discord.gg/aTDBEdgtHM"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<p align="center">🔭 Well, you'll see 😏<a href="https://discord.gg/aTDBEdgtHM"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 <h2 align="center">Find me on:</h2>
 <p align="center"><b>(adr3ez)</b><br> <a href="https://discordapp.com/users/adr3ez"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a></p>
   
